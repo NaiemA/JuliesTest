@@ -16,6 +16,8 @@ public class JulieApp {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        //I wrote some amazing code
     }
     
 }
